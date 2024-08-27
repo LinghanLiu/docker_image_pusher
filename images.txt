@@ -1,1 +1,2 @@
 bitnami/discourse
+discourse/base
