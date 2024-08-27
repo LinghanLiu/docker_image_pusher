@@ -1,2 +1,2 @@
 bitnami/discourse
-discourse/base
+discourse/base:release
